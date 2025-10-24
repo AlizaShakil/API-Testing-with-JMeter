@@ -3,14 +3,14 @@ In this assignment, I created a complete API test plan in Apache JMeter using th
 
 # Test Plan Details
 The JMeter Test Plan includes:
-**POST** → Create new objects using data from a CSV file  
-**GET** → Retrieve all and single objects  
-**PATCH** → Update existing objects  
-**Patch** → Update partially
-**DELETE** → Remove objects  
-**GET (After Delete)** → Validate deletion response  
+- **POST** → Create new objects using data from a CSV file  
+- **GET** → Retrieve all and single objects  
+- **PATCH** → Update existing objects  
+- **Patch** → Update partially
+- **DELETE** → Remove objects  
+- **GET (After Delete)** → Validate deletion response  
 
 # Key Learning
-Built JMeter Test Plan using Thread Groups, Samplers & Listeners.
-Automated complete CRUD API workflows.
-Used CSV Data Set Config for POST requests.
+- Built JMeter Test Plan using Thread Groups, Samplers & Listeners.
+- Automated complete CRUD API workflows.
+- Used CSV Data Set Config for POST requests.
